@@ -1,2 +1,4 @@
 # Centro De Idiomas
 Parcial - S08, M_N
+#MATEO JULCAMANYAN JORDY
+#NAVARRO SOLORZANO JOSÉ
